@@ -7,13 +7,9 @@ Thus to cipher a given text we need an integer value, known as shift which indic
 
 The encryption can also be represented using modular arithmetic by first transforming the letters into numbers,according to the scheme, A → 0, B → 1, ..., Z → 25. Encryption of a letter x by a shift n can be described mathematically as
 
-![Encryption Phase with shift n](https://github.com/KaleabK/security/tree/master/data/encryption.svg)
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/77b59c7a676a99610ddee4ffc305aa7f9cda3b1a)
 
 Decryption is performed similarly,
-
-![Decryption Phase with shift n](![Encryption Phase with shift n](https://github.com/KaleabK/security/tree/master/dataencryption.svg)
-/decryption.svg)
-
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/8ed607e0202ff8d35aa41559f846cac9d358a362)
 ##
-![Caesar cipher](![Encryption Phase with shift n](https://github.com/KaleabK/security/tree/master/dataencryption.svg)
-/ceaserCi.png)
+![](https://raw.githubusercontent.com/KaleabK/security/master/data/ceaserCipher.png)
